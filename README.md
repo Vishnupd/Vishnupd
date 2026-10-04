@@ -28,43 +28,28 @@ I’m Vishnu Prasad, a Software Engineer specializing in Database Administration
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-     
+    
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> 
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-
-<img src="https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Angular" />
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-
-<img src="https://img.shields.io/badge/Google%20Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Looker Studio" />
-
-<img src="https://img.shields.io/badge/IBM%20Watson%20Studio-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Watson Studio" />
-
-<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
-
-<img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Management Studio" />
-
-<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
-
-<img src="https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI Foundry" />
-
-<img src="https://img.shields.io/badge/IBM%20Cognos%20Analytics-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cognos Analytics" />
-
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Angular" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Google%20Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Looker Studio" />
+  <img src="https://img.shields.io/badge/IBM%20Watson%20Studio-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Watson Studio" />
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Management Studio" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+  <img src="https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI Foundry" />
+  <img src="https://img.shields.io/badge/IBM%20Cognos%20Analytics-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cognos Analytics" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" alt="Bash" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=000000" alt="C" />
       <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?style=for-the-badge&logo=c%2B%2B&color=000000" alt="C++" />
@@ -74,8 +59,6 @@ I’m Vishnu Prasad, a Software Engineer specializing in Database Administration
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&color=000000" alt="Java" />
       
-
-
   </div>
 </div>
 
@@ -83,9 +66,11 @@ I’m Vishnu Prasad, a Software Engineer specializing in Database Administration
 <h2 id="Certifications" align=''> Certifications </h2>
 
 <div>
-<img src="https://img.shields.io/badge/OSCP-Certified-red?style=for-the-badge&color=000000" alt="OSCP Certification" />
-<img src="https://img.shields.io/badge/CompTIA_Security%2B-Certified-red?style=for-the-badge&color=000000" alt="CompTIA Security+ Certification" />
-<img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-blue?style=for-the-badge&logo=ec-council&color=000000" alt="CEH Certification" />
+<img src="https://img.shields.io/badge/Microsoft_Azure-AI--900_Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure AI Fundamentals" />
+
+<img src="https://img.shields.io/badge/IBM-Data_Analyst_Professional_Certificate-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Analyst Professional Certificate" />
+
+<img src="https://img.shields.io/badge/Microsoft-SQL_Server_Professional_Certificate-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server Professional Certificate" />
 
 </div>
 
