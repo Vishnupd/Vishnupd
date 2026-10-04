@@ -7,14 +7,15 @@ I’m Vishnu Prasad, a Software Engineer specializing in Database Administration
 <details>
   <summary>More about me</summary>
 
-* **Name**: Vishnu Prasad
-* **From**: India | **Based in**: Canada
-* **Software Engineer** | **MEAN Stack Developer** | **Desktop Engineer**
-* Experienced in **SQL Server, T-SQL, PostgreSQL, Python, Data Analysis, MEAN Stack development, and technical support**.
-* Skilled in **database administration, performance tuning, index management, backup & recovery, database security, user and permission management, database maintenance, monitoring, troubleshooting, disaster recovery, data migration, and automation**.
-* Experienced in **stored procedures, views, functions, triggers, complex SQL queries, query optimization, and database development**.
-* Also experienced in **web application development, application troubleshooting, Windows/desktop support, software installation, system configuration, and end-user technical support**.
-* Continuously expanding my knowledge in **database technologies, data analytics, cloud platforms, application development, and modern IT solutions**.
+* Name: Vishnu Prasad
+* From: India | Based in: Canada
+* Software Engineer | MEAN Stack Developer | Desktop Engineer
+* Experienced in SQL Server, T-SQL, PostgreSQL, Python, Data Analysis, MEAN Stack development, and technical support.
+* Skilled in database administration, performance tuning, index management, backup & recovery, database security, user and permission management, database maintenance, monitoring, troubleshooting, disaster recovery, data migration, and automation.
+* Experienced in stored procedures, views, functions, triggers, complex SQL queries, query optimization, and database development.
+* Also experienced in web application development, application troubleshooting, Windows/desktop support, software installation, system configuration, and end-user technical support.
+* Continuously expanding my knowledge in database technologies, data analytics, cloud platforms, application development, and modern IT solutions.
+
 
 
 </details>
