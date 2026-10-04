@@ -82,8 +82,7 @@ I’m Vishnu Prasad, a Software Engineer specializing in Database Administration
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Automated-SQL-Server-Index-Maintenance]([https://github.com/](https://github.com/Vishnupd/Automated-SQL-Server-Index-Maintenance))**  | The Automated SQL Server Index Maintenance project was developed to automate the identification and rebuilding of highly fragmented indexes across database tables.
-The goal was to improve database maintenance efficiency and support query performance by automatically identifying indexes that meet predefined fragmentation and page-count thresholds, rebuilding the affected indexes, and recording the execution status for monitoring and auditing. |
+| **[Automated-SQL-Server-Index-Maintenance](https://github.com/Vishnupd/Automated-SQL-Server-Index-Maintenance)**  | The Automated SQL Server Index Maintenance project was developed to automate the identification and rebuilding of highly fragmented indexes across database tables.The goal was to improve database maintenance efficiency and support query performance by automatically identifying indexes that meet predefined fragmentation and page-count thresholds, rebuilding the affected indexes, and recording the execution status for monitoring and auditing. |
 | **[Project 2](https://github.com/)**    | Short Description |
 | **[Project 3](https://github.com/)**    | Short Description | 
 
