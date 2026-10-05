@@ -83,7 +83,7 @@ I’m Vishnu Prasad, a Software Engineer specializing in Database Administration
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
 | **[Automated-SQL-Server-Index-Maintenance](https://github.com/Vishnupd/Automated-SQL-Server-Index-Maintenance)**  | The Automated SQL Server Index Maintenance project was developed to automate the identification and rebuilding of highly fragmented indexes across database tables.The goal was to improve database maintenance efficiency and support query performance by automatically identifying indexes that meet predefined fragmentation and page-count thresholds, rebuilding the affected indexes, and recording the execution status for monitoring and auditing. |
-| **[Project 2](https://github.com/)**    | Short Description |
+| **[Automated-SQL-Server-Database-Growth-Monitoring](https://github.com/Vishnupd/Automated-SQL-Server-Database-Growth-Monitoring/tree/main)**    | The SQL Server Database Growth Monitoring project aimed to automate database space monitoring and proactively identify when a database data file approaches its configured storage threshold. The goal was to monitor database file utilization, compare used space against a defined percentage limit, and automatically send email alerts when the threshold was exceeded. This hands-on project provided practical experience in SQL Server administration, T-SQL automation, database monitoring, and Database Mail configuration. |
 | **[Project 3](https://github.com/)**    | Short Description | 
 
 ---
