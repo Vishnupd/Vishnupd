@@ -77,7 +77,7 @@ I’m Vishnu Prasad, a Software Engineer specializing in Database Administration
 
 ---
 
-<h2 id="Projects" align=''> Projects </h2>
+<h2 id="Projects1" align=''> Database Projects </h2>
 
 
 | **Project**      | **Description**                                                                                  |
@@ -87,5 +87,16 @@ I’m Vishnu Prasad, a Software Engineer specializing in Database Administration
 | **[Automated SQL Server Long Running Query Monitoring ](https://github.com/Vishnupd/SQL-Server-Long-Running-Query-Monitoring-/blob/main)**    | The SQL Server Long Running Query Monitoring project aimed to identify SQL Server queries that run longer than a defined time threshold and automatically notify the database administrator through email. The goal was to improve proactive database monitoring by detecting potentially problematic queries, blocking sessions, and long running transactions. This hands-on project provided practical experience with SQL Server Dynamic Management Views (DMVs), query monitoring, performance troubleshooting, HTML email generation, and automated Database Mail notifications. | 
 | **[Automated SQL Server Open Transaction and Blocked Query Detection ](https://github.com/Vishnupd/SQL-Server-Open-Transaction-and-Blocked-Query-Detection/blob/main)**    | The SQL Server Open Transaction and Blocked Query Detection project aimed to automatically identify blocked queries and open transactions that could affect database performance and application availability. The stored procedure monitors SQL Server sessions using system process information and Dynamic Management Functions, identifies blocking conditions and open transactions, and sends automated HTML formatted email alerts through SQL Server Database Mail. This hands-on project provided practical experience with transaction monitoring, blocking analysis, session troubleshooting, SQL Server system views, T-SQL, and automated database alerts. | 
 | **[Automated SQL Server Error Log Monitoring and Alerting ](https://github.com/Vishnupd/SQL-Server-Error-Log-Monitoring-and-Alerting/blob/main)**    | The SQL Server Error Log Monitoring and Alerting project aimed to automatically monitor the SQL Server error log for important errors and security related events within a defined time period. The stored procedure checks the most recent 15 minutes of the SQL Server error log, identifies messages containing errors, failed login attempts, or I/O-related issues, and sends an automated HTML formatted email alert through SQL Server Database Mail. This hands on project provided practical experience with SQL Server error log monitoring, xp_readerrorlog, temporary tables, dynamic SQL, error detection, T-SQL automation, and Database Mail notifications. |
+
+
+<h2 id="Projects2" align=''> Data Analysis Projects </h2>
+
+
+| **Project**      | **Description**                                                                                  |
+|-------------------|--------------------------------------------------------------------------------------------------|
+| **[Data Analysis Project](https://github.com/Vishnupd/Python_Data_Analytics)**  |  |
+| **[Data Analysis Project](https://github.com/Vishnupd/Data_Analytics_Project)**    |  |
+| **[Data Analysis Project_Dashboard_Looker Studio](https://github.com/Vishnupd/Capstone_Project_Dashborad_LookerStudio)**    |  | 
+
 
 ---
