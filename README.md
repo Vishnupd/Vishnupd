@@ -1,18 +1,18 @@
 ## Hi there 👋
 
-I’m Vishnu Prasad, a technology professional with experience in software engineering, database administration, database development, and technical support. I have over 2 years of experience as a Software Engineer, 8 months as a Desktop Engineer, and 1 year as a MEAN Stack Intern. My core expertise includes SQL Server, database performance optimization, application development, and IT infrastructure support.
+I’m Vishnu Prasad, a technology professional with experience in software engineering, database administration, database development, data analysis, and technical support. I have over 2 years of experience as a Software Engineer, 8 months as a Desktop Engineer, and 1 year as a MEAN Stack Intern. My core expertise includes database management and optimization, application development, IT infrastructure support, and data analysis. I’m passionate about solving technical challenges, improving system performance, and building reliable, efficient, and scalable solutions.
 
 <a href="https://www.linkedin.com/in/vishnu-pra-sad/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <details>
   <summary>More about me</summary>
 
+  
 My strongest expertise lies in SQL Server database administration and development, with hands-on experience in database performance optimization, T-SQL programming, database monitoring, backup and recovery, disaster recovery, security, and automation. I enjoy building reliable database solutions, troubleshooting complex technical issues, and improving system performance.
 
 I also have experience in web application development using the MEAN stack, desktop and IT support, and data analysis using Python and SQL. 
 
 I am passionate about continuous learning, solving real world technical problems, and developing efficient, secure, and scalable solutions. My goal is to combine my database expertise, software development skills, and analytical thinking to contribute to reliable systems and data driven decision making.
-
 
 </details>
 <br>
