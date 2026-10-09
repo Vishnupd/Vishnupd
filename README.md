@@ -8,11 +8,13 @@ I’m Vishnu Prasad, a technology professional with experience in software engin
   <summary>More about me</summary>
 
   
-My strongest expertise lies in SQL Server database administration and development, with hands-on experience in database performance optimization, T-SQL programming, database monitoring, backup and recovery, disaster recovery, security, and automation. I enjoy building reliable database solutions, troubleshooting complex technical issues, and improving system performance.
+My strongest expertise lies in SQL Server database administration and development, with hands-on experience in database performance optimization, T-SQL programming, database monitoring, backup and recovery, disaster recovery, security, and automation. I enjoy building reliable database solutions, troubleshooting complex technical issues, and improving system performance.I also have experience in web application development using the MEAN stack, desktop and IT support.
 
-I also have experience in web application development using the MEAN stack, desktop and IT support, and data analysis using Python and SQL. 
+Beyond database technologies, I work with Python and SQL to explore datasets, perform data cleaning, conduct exploratory data analysis, and identify meaningful trends. I also use data visualization and reporting tools such as Power BI, Google Looker Studio, IBM Cognos Analytics, and Tableau to transform data into meaningful insights through interactive dashboards, charts, and reports.
 
-I am passionate about continuous learning, solving real world technical problems, and developing efficient, secure, and scalable solutions. My goal is to combine my database expertise, software development skills, and analytical thinking to contribute to reliable systems and data driven decision making.
+I am also interested in cloud computing and artificial intelligence, with exposure to Microsoft Azure AI Foundry and its capabilities for exploring AI models, generative AI applications, machine learning, and responsible AI practices.
+
+I enjoy combining technical problem solving, analytical thinking, and continuous learning to develop practical solutions that improve system reliability, support data driven decisions.
 
 </details>
 <br>
