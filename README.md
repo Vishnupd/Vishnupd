@@ -14,6 +14,7 @@ My strongest expertise lies in SQL Server database administration and developmen
 
 
 
+
 Beyond database technologies, I work with Python and SQL to explore datasets, perform data cleaning, conduct exploratory data analysis, and identify meaningful trends. I also use data visualization and reporting tools such as Power BI, Google Looker Studio, IBM Cognos Analytics, and Tableau to transform data into meaningful insights through interactive dashboards, charts, and reports.
 
 I am also interested in cloud computing and artificial intelligence, with exposure to Microsoft Azure AI Foundry and its capabilities for exploring AI models, generative AI applications, machine learning, and responsible AI practices.
