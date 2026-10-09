@@ -6,6 +6,7 @@ I’m Vishnu Prasad, a technology professional with experience in software engin
 
 <details>
   <summary>More about me</summary>
+  
 <br>
 My strongest expertise lies in SQL Server database administration and development, with hands-on experience in database performance optimization, T-SQL programming, database monitoring, backup and recovery, disaster recovery, security, and automation. I enjoy building reliable database solutions, troubleshooting complex technical issues, and improving system performance.I also have experience in web application development using the MEAN stack, desktop and IT support.
 
