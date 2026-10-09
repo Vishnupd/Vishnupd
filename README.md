@@ -94,9 +94,9 @@ I’m Vishnu Prasad, a Software Engineer specializing in Database Administration
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Data Analysis Project](https://github.com/Vishnupd/Python_Data_Analytics)**  |  |
-| **[Data Analysis Project](https://github.com/Vishnupd/Data_Analytics_Project)**    |  |
-| **[Data Analysis Project_Dashboard_Looker Studio](https://github.com/Vishnupd/Capstone_Project_Dashborad_LookerStudio)**    |  | 
+| **[Data Analysis Project](https://github.com/Vishnupd/Python_Data_Analytics)**  |Developed a collection of data analytics projects using Python, SQL, and Jupyter Notebook, covering data wrangling, exploratory data analysis (EDA), data visualization, database operations, and machine learning model development. Worked with Pandas, Matplotlib, SQLite, and web APIs to clean and analyze datasets, perform SQL queries, visualize trends, and evaluate predictive models. Created interactive dashboards and visualizations to communicate insights and support data-driven decision-making.  |
+| **[Data Analysis Project](https://github.com/Vishnupd/Data_Analytics_Project)**    |Developed a data analytics project using Python and Jupyter Notebook to explore, analyze, and visualize data. Created an interactive dashboard to present key insights through data visualizations, supporting data exploration and data-driven decision making.  |
+| **[Data Analysis Project_Dashboard_Looker Studio](https://github.com/Vishnupd/Capstone_Project_Dashborad_LookerStudio)**    |Developed an interactive data visualization dashboard using Google Looker Studio to present key insights through charts, graphs, and visual reports. Transformed analyzed data into meaningful visualizations to identify trends, communicate findings, and support data driven decision making.  | 
 
 
 ---
